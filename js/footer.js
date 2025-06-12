@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function () {
         </div>
         <div class="footer-social-container">
           <a
-            href="https://x.com/"
+            href="https://x.com/cysicnetwork_ai/"
             target="_blank"
             class="footer-socials w-inline-block"
           >
