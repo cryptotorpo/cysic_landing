@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", function () {
             </div>
           </a>
           <a
-            href="https://t.me/"
+            href="https://t.me/cysic_ai_portal"
             target="_blank"
             class="footer-socials w-inline-block"
           >
